@@ -1,2 +1,0 @@
-#how to use the macro
-root -l VHPlotter.C+\(\"histoname\",1\);
